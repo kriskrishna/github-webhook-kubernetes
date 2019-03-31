@@ -26,8 +26,8 @@
 		<!-- [PIPELINE] -->
 		<distribution.management.release.id>artifactory-local</distribution.management.release.id>
 		<!-- [PIPELINE] -->
-		<distribution.management.snapshot.url>http://localhost:8081/artifactory/libs-snapshot-local</distribution.management.snapshot.url>
-		<distribution.management.release.url>http://localhost:8081/artifactory/libs-release-local</distribution.management.release.url>
+		<distribution.management.snapshot.url>http://localhost:8084/artifactory/libs-snapshot-local</distribution.management.snapshot.url>
+		<distribution.management.release.url>http://localhost:8084/artifactory/libs-release-local</distribution.management.release.url>
 		<!-- [PIPELINE] -->
 		<repo.with.binaries>http://localhost:8081/artifactory/libs-release-local</repo.with.binaries>
 		<!-- KUBERNETES -->
